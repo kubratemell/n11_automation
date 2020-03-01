@@ -86,9 +86,16 @@ public class TestCases {
             e.printStackTrace();
         }
 
+        WebElement basketIcon = driver.findElement(By.xpath("//a[@title='Sepetim']"));
 
+        basketIcon.click();
+
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
-
 
     @AfterEach
     public void tearDown(){
