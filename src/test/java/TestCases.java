@@ -76,6 +76,17 @@ public class TestCases {
             e.printStackTrace();
         }
 
+        WebElement addBasketButton = driver.findElement(By.xpath("//a[@title='Sepete Ekle']"));
+
+        addBasketButton.click();
+
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+
     }
 
 

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba299054-09ab-4195-952d-2821342e6eda" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,16 @@
       <recent name="C:\Users\user\Desktop\n11_automation" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestCases">
+    <configuration name="TestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="n11_automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCases.loginAndProductSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="n11_automation" />
       <option name="PACKAGE_NAME" value="" />
@@ -55,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCases" />
         <item itemvalue="JUnit.TestCases.loginAndProductSearch" />
       </list>
     </recent_temporary>
@@ -77,37 +88,53 @@
       <option name="project" value="LOCAL" />
       <updated>1583014323798</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1583014840098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583014840098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1583014322832">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1583014839390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583014322832" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583014063414">
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583014839390" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1583014823200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583014063414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583014063414">
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583014823200" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583045867301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583014063414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583014063414">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583045867301" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583045867301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583014063414" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583014063414">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583045867301" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583045867301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583014063414" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583014333320">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583045867301" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583045867301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583014333320" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583045867301" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1583014866195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583014866195" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583045427944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583045427944" />
   </component>
 </project>
